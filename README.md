@@ -174,3 +174,6 @@ streamlit run app.py
 ```
 
 The application will open in your browser, where you can enter patient health parameters and view the model prediction.
+## 🚀 Live Demo
+
+[Try the Diabetes Prediction Dashboard](https://diabetes-prediction-7k7hezntgsmfbu7cvhv6rl.streamlit.app)
